@@ -1,0 +1,18 @@
+1. Whimsical Toys Inc (WTI) needs to record the names  of all its employees.  Every  month, an employee  will be chosen at random from these  records to receive  a free toy.
+
+=> List. It can generate a random employee from the list of employees.
+
+
+2. WTI has decided that each new product will be named after an employee  but only first names  will be used,  and each name will be used  only once. Prepare  a list of unique  first names.
+
+=> Set. Set will store only unique values.
+
+
+3. WTI decides that it only wants to use  the most popular names  for its toys. Count up the number of employees  who have each first name.
+
+=> Map. Employee name and count of occurence can be stored in may as a key-value pair.
+
+
+4. WTI acquires  season tickets  for the local lacrosse  team, to be shared by employees.  Create  a waiting list for this popular sport
+
+=> Queue. A waiting list can be created using Queue and First come first serve concept can be achieved using Queue as it uses the FIFO concept. 
